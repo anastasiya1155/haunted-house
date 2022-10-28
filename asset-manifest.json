@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/haunted-house/static/js/main.daa256ba.js",
+    "static/media/color.jpg": "/haunted-house/static/media/color.c548d2d05b1ab054651d.jpg",
+    "static/media/normal.jpg": "/haunted-house/static/media/normal.6d05b9fe50a09f055b9c.jpg",
+    "static/media/ambientOcclusion.jpg": "/haunted-house/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
+    "static/media/height.png": "/haunted-house/static/media/height.03b7dcac38c49ad8c5d4.png",
+    "static/media/normal.jpeg": "/haunted-house/static/media/normal.99737220a3f4c972ff35.jpeg",
+    "static/media/roughness.jpg": "/haunted-house/static/media/roughness.c4167c276e23526bf787.jpg",
+    "static/media/color.jpeg": "/haunted-house/static/media/color.61c06fe55c1fc70f42ec.jpeg",
+    "static/media/ambientOcclusion.jpeg": "/haunted-house/static/media/ambientOcclusion.4dfcb5ab92408d4f20b9.jpeg",
+    "static/media/roughness.jpeg": "/haunted-house/static/media/roughness.3dbd8df12be7b08936d6.jpeg",
+    "static/media/height.jpg": "/haunted-house/static/media/height.855dc782cb9037740e6f.jpg",
+    "static/media/metalness.jpg": "/haunted-house/static/media/metalness.b55cd732e2813ae3c548.jpg",
+    "static/media/alpha.jpg": "/haunted-house/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
+    "index.html": "/haunted-house/index.html",
+    "main.daa256ba.js.map": "/haunted-house/static/js/main.daa256ba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.daa256ba.js"
+  ]
+}

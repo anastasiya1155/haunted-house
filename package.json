@@ -1,0 +1,44 @@
+{
+  "name": "haunted-house",
+  "description": "Haunted house example from Three.js Journey course implemented with react-three-fiber",
+  "repository": "#",
+  "license": "UNLICENSED",
+  "main": "src/index.jsx",
+  "keywords": [
+    "react",
+    "r3f",
+    "three.js",
+    "three.js journey"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@react-three/drei": "^8.20.2",
+    "@react-three/fiber": "^8.8.10",
+    "@types/three": "^0.135.0",
+    "leva": "^0.9.32",
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "react-dom": "^18.2.0",
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

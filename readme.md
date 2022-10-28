@@ -14,3 +14,5 @@ npm start
 # Build for production in the dist/ directory
 npm run build
 ```
+
+See demo [here](https://anastasiya1155.github.io/haunted-house)
